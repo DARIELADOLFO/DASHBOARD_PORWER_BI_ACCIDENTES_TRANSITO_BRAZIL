@@ -1,5 +1,12 @@
 # DASHBOARD_PORWER_BI_ACCIDENTES_TRANSITO_BRAZIL
 DASHBOARD_PORWER_BI_ACCIDENTES_TRANSITO_BRAZIL
+
+Link del dashboard: 
+
+https://lnkd.in/efWGdwU4
+
+Imagenes : 
+
 <img width="1337" height="783" alt="image" src="https://github.com/user-attachments/assets/bb2cba4b-feb9-47bf-98a2-0c13a658c453" />
 <img width="1257" height="797" alt="image" src="https://github.com/user-attachments/assets/9829d57b-97a7-4217-823f-467f93b46dae" />
 
